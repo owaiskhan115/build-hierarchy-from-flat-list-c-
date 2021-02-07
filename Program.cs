@@ -69,8 +69,6 @@ namespace Hierarchy
 
             Console.ReadLine();
 
-            //want to lines list object into category object. 
-
         }
     }
 }
